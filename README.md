@@ -1,8 +1,8 @@
-Data Mining for Airbnb Listings
+# Data Mining for Airbnb Listings
 
 This repository contains coursework for the Data Mining course in the MS ABA program at Boston University. Team Members: Shimony Agrawal, Gerardo Bastidas, Alberto Calderon, Benjamin Flavin, Oscar Villarreal Rojas
 
-Introduction
+## Introduction
 
 The project aims to analyse the Airbnb Listings for Copacabana, Brazil to better improve its performance. There are 4 key parts of the project:
 
@@ -13,7 +13,7 @@ The project aims to analyse the Airbnb Listings for Copacabana, Brazil to better
   
 Based on these steps, supervised and unsupervised machine learning algorithms like Multiple Linear Regression, K-Nearest Neighbours, Naive Bayes, CART and Clustering Analysis were applied to predict prices, instant bookability of the rental, cancellation policies, impact of cleaning fee on the bookings and various clusters the rentals belonged to.
 
-Analysis
+## Analysis
 
   1. We first performed data wrangling on 33,715 records to eliminate N/A and missing values to get a better understanding of our data. Following which, we performed data visualization to identify any outliers in the data.
 
